@@ -4,5 +4,8 @@ def force_calc(mass, acceleration):
     return force
 
 print(force_calc(7, 100))
+#add to git
+
+
 
 
